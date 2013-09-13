@@ -1,4 +1,4 @@
 mbari-public
 ============
 
-Scripts to create the basis for data analyses
+Scripts to help with data analyses
